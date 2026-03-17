@@ -103,17 +103,6 @@ Multivariate time-series sensor data:
 
 ---
 
-## Repository Structure
-
-/data # Sensor datasets
-/models # Trained models
-/src # Core implementation
-/notebooks # Experiments
-/docs # System diagrams
-
-
----
-
 ## Future Work
 - Optimize models for edge deployment  
 - Improve robustness under real-world noise  
