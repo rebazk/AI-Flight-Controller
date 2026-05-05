@@ -22,12 +22,9 @@ This project introduces a predictive approach, enabling early detection of compo
 
 ### Hardware Components
 - Flight controller / microcontroller  
-- Sensors:
-  - Voltage & current sensors  
-  - RPM sensors  
-  - PWM signals  
-  - Temperature sensors  
-  - IMU (Inertial Measurement Unit)  
+- Sensors: 
+  - 3x Barometers
+  - 3x IMU (Inertial Measurement Unit)
 
 ### Software & AI Pipeline
 - Real-time sensor data acquisition  
