@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-This is test code. We have not released our real data or code. 
+This is test code. We have not released our real data or code.
 
 The system outputs:
 
